@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gaurav Roy</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
-<img src="https://i.gifer.com/origin/22/22657b8a577f858827c5d46dac32cf53_w200.gif" alt="img1" /> 
+<img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="Image"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goku02082001&label=Profile%20views&color=0e75b6&style=flat" alt="goku02082001" /> </p>
 
