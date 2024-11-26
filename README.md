@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gaurav Roy</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F307370743309856101%2F&psig=AOvVaw36awajcaBk7mUwYfpoD8ra&ust=1732706515142000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPDw2ofx-YkDFQAAAAAdAAAAABA5
+<img src="!https://github.com/user-attachments/assets/dd49ae79-8e52-49dc-b915-bd71d2919895" alt="img1" /> 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goku02082001&label=Profile%20views&color=0e75b6&style=flat" alt="goku02082001" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=goku02082001" alt="goku02082001" /></a> </p>
